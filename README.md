@@ -1,2 +1,1 @@
-# Repo
-SANS Holiday Hack Challenge Walkthroughs
+# SANS Holiday Hack Challenge Walkthroughs
